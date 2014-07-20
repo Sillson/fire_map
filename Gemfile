@@ -13,6 +13,7 @@ gem 'figaro'
 gem 'haml-rails'
 gem 'pg'
 gem 'd3-rails'
+gem 'topojson-rails'
 
 group :doc do
   gem 'sdoc', '~> 0.4.0', require: false
