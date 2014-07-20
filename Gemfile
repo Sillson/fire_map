@@ -12,6 +12,7 @@ gem 'bootstrap-sass', '>= 3.0.0.0'
 gem 'figaro'
 gem 'haml-rails'
 gem 'pg'
+gem 'd3-rails'
 
 group :doc do
   gem 'sdoc', '~> 0.4.0', require: false
