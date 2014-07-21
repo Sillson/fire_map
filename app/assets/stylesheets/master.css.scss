@@ -1,1 +1,21 @@
 @import "bootstrap";
+
+$darkgrey:#333333;
+
+html,body {
+
+}
+
+/* Callout */
+
+.callout {
+  h2 {
+    border-bottom: 1px dashed $darkgrey;
+  }
+}
+
+/* Map */
+
+.map {
+  
+}
